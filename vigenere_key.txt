@@ -1,0 +1,4 @@
+g 1er           --> h
+espacio 2do     --> a
+b 3er           --> c
+j 4to           --> k
